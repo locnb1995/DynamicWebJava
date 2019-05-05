@@ -1,1 +1,1 @@
-# DynamicWebJava
+# Jsp + Servlet + Mysql
